@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947471959564",
+    "project_id": "notification-d0e13",
+    "storage_bucket": "notification-d0e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947471959564:android:1ad2721234edfd86581029",
+        "android_client_info": {
+          "package_name": "com.stipeintegrate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszUynxoVjbBpNiE36wO1KeTC-iBFBycc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
